@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<robot name="motoman_motomini" xmlns:xacro="http://ros.org/wiki/xacro">
+  <xacro:include filename="$(find motoman_motomini_support)/urdf/motomini_macro.xacro" />
+  <xacro:motoman_motomini prefix=""/>
+ <link name="world" /> 
+ <joint name="world_joint" type="fixed"> 
+    <parent link="world" /> 
+    <child link = "base_link" /> 
+    <origin xyz="0.0 0.0 0.08" rpy="0.0 0.0 0.0" /> 
+ </joint> 
+</robot>

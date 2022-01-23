@@ -1,0 +1,6 @@
+motoman_motomini/motoman_motomini_control
+/home/haininh/my_catkin8/devel/.private/motoman_motomini_control/cmake.lock /home/haininh/my_catkin8/devel/./cmake.lock
+/home/haininh/my_catkin8/devel/.private/motoman_motomini_control/lib/motoman_motomini_control/motomini_movegroup_control /home/haininh/my_catkin8/devel/lib/motoman_motomini_control/motomini_movegroup_control
+/home/haininh/my_catkin8/devel/.private/motoman_motomini_control/lib/pkgconfig/motoman_motomini_control.pc /home/haininh/my_catkin8/devel/lib/pkgconfig/motoman_motomini_control.pc
+/home/haininh/my_catkin8/devel/.private/motoman_motomini_control/share/motoman_motomini_control/cmake/motoman_motomini_controlConfig.cmake /home/haininh/my_catkin8/devel/share/motoman_motomini_control/cmake/motoman_motomini_controlConfig.cmake
+/home/haininh/my_catkin8/devel/.private/motoman_motomini_control/share/motoman_motomini_control/cmake/motoman_motomini_controlConfig-version.cmake /home/haininh/my_catkin8/devel/share/motoman_motomini_control/cmake/motoman_motomini_controlConfig-version.cmake

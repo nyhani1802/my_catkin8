@@ -1,0 +1,8 @@
+prefix=/home/haininh/my_catkin8/devel/.private/motorosudp
+
+Name: motorosudp
+Description: Description of motorosudp
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: moveit_visual_tools roscpp interactive_markers visualization_msgs serial

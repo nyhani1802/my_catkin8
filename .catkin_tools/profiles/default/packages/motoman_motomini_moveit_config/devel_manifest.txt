@@ -1,0 +1,5 @@
+motoman_motomini/motoman_motomini_moveit_config
+/home/haininh/my_catkin8/devel/.private/motoman_motomini_moveit_config/cmake.lock /home/haininh/my_catkin8/devel/./cmake.lock
+/home/haininh/my_catkin8/devel/.private/motoman_motomini_moveit_config/lib/pkgconfig/motoman_motomini_moveit_config.pc /home/haininh/my_catkin8/devel/lib/pkgconfig/motoman_motomini_moveit_config.pc
+/home/haininh/my_catkin8/devel/.private/motoman_motomini_moveit_config/share/motoman_motomini_moveit_config/cmake/motoman_motomini_moveit_configConfig.cmake /home/haininh/my_catkin8/devel/share/motoman_motomini_moveit_config/cmake/motoman_motomini_moveit_configConfig.cmake
+/home/haininh/my_catkin8/devel/.private/motoman_motomini_moveit_config/share/motoman_motomini_moveit_config/cmake/motoman_motomini_moveit_configConfig-version.cmake /home/haininh/my_catkin8/devel/share/motoman_motomini_moveit_config/cmake/motoman_motomini_moveit_configConfig-version.cmake

@@ -1,0 +1,8 @@
+prefix=/home/haininh/my_catkin8/devel/.private/motoman_motomini_control
+
+Name: motoman_motomini_control
+Description: Description of motoman_motomini_control
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

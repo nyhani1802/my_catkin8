@@ -1,0 +1,8 @@
+prefix=/home/haininh/my_catkin8/devel/.private/motoman_motomini_moveit_config
+
+Name: motoman_motomini_moveit_config
+Description: Description of motoman_motomini_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

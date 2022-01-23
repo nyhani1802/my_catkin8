@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/haininh/my_catkin8/devel/.private/motoman_motomini_moveit_config/setup.sh

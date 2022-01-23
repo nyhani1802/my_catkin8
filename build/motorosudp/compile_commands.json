@@ -1,0 +1,117 @@
+[
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/src/capture.cpp.o -c /home/haininh/my_catkin8/src/motorosudp/src/capture.cpp",
+  "file": "/home/haininh/my_catkin8/src/motorosudp/src/capture.cpp"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/src/dialogeditstep.cpp.o -c /home/haininh/my_catkin8/src/motorosudp/src/dialogeditstep.cpp",
+  "file": "/home/haininh/my_catkin8/src/motorosudp/src/dialogeditstep.cpp"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/src/dialogplay.cpp.o -c /home/haininh/my_catkin8/src/motorosudp/src/dialogplay.cpp",
+  "file": "/home/haininh/my_catkin8/src/motorosudp/src/dialogplay.cpp"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/src/dialogposition.cpp.o -c /home/haininh/my_catkin8/src/motorosudp/src/dialogposition.cpp",
+  "file": "/home/haininh/my_catkin8/src/motorosudp/src/dialogposition.cpp"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/src/main.cpp.o -c /home/haininh/my_catkin8/src/motorosudp/src/main.cpp",
+  "file": "/home/haininh/my_catkin8/src/motorosudp/src/main.cpp"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/src/main_window.cpp.o -c /home/haininh/my_catkin8/src/motorosudp/src/main_window.cpp",
+  "file": "/home/haininh/my_catkin8/src/motorosudp/src/main_window.cpp"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/src/motoudp.cpp.o -c /home/haininh/my_catkin8/src/motorosudp/src/motoudp.cpp",
+  "file": "/home/haininh/my_catkin8/src/motorosudp/src/motoudp.cpp"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/src/qnode.cpp.o -c /home/haininh/my_catkin8/src/motorosudp/src/qnode.cpp",
+  "file": "/home/haininh/my_catkin8/src/motorosudp/src/qnode.cpp"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/qrc_images.cxx.o -c /home/haininh/my_catkin8/build/motorosudp/qrc_images.cxx",
+  "file": "/home/haininh/my_catkin8/build/motorosudp/qrc_images.cxx"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/include/motorosudp/moc_capture.cxx.o -c /home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_capture.cxx",
+  "file": "/home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_capture.cxx"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/include/motorosudp/moc_dialogeditstep.cxx.o -c /home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_dialogeditstep.cxx",
+  "file": "/home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_dialogeditstep.cxx"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/include/motorosudp/moc_dialogplay.cxx.o -c /home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_dialogplay.cxx",
+  "file": "/home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_dialogplay.cxx"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/include/motorosudp/moc_dialogposition.cxx.o -c /home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_dialogposition.cxx",
+  "file": "/home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_dialogposition.cxx"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/include/motorosudp/moc_main_window.cxx.o -c /home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_main_window.cxx",
+  "file": "/home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_main_window.cxx"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/include/motorosudp/moc_motoudp.cxx.o -c /home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_motoudp.cxx",
+  "file": "/home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_motoudp.cxx"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_NO_KEYWORDS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"motorosudp\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/OGRE -I/usr/include/eigen3 -I/home/haininh/my_catkin8/build/motorosudp -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtCore -isystem /usr/include/opencv  -std=c++11 -std=c++11 -o CMakeFiles/motorosudp.dir/include/motorosudp/moc_qnode.cxx.o -c /home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_qnode.cxx",
+  "file": "/home/haininh/my_catkin8/build/motorosudp/include/motorosudp/moc_qnode.cxx"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp/gtest/googlemock",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -std=c++11 -fPIC  -std=c++11 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock_main.dir/usr/src/googletest/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp/gtest/googlemock",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -std=c++11 -fPIC  -std=c++11 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp/gtest/googlemock",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -std=c++11 -fPIC  -std=c++11 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp/gtest/googlemock",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -std=c++11 -fPIC  -std=c++11 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock.dir/usr/src/googletest/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp/gtest/googlemock",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -std=c++11 -fPIC  -std=c++11 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp/gtest/googlemock/gtest",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -std=c++11 -fPIC  -std=c++11 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/haininh/my_catkin8/build/motorosudp/gtest/googlemock/gtest",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -std=c++11 -fPIC  -std=c++11 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+}
+]

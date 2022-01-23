@@ -1,0 +1,6 @@
+devel_space: /home/haininh/my_catkin8/devel
+install: false
+install_space: /home/haininh/my_catkin8/install
+profile: default
+source_space: /home/haininh/my_catkin8/src
+workspace: /home/haininh/my_catkin8
